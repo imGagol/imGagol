@@ -1,5 +1,5 @@
 # Hello World! 👋
-*I'm Gagol!*
+*My NickName is Gagol*
 
 ## Programs, Code Language
 
@@ -16,3 +16,6 @@ KakaoTalk Bot  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=fla
 - Making node.js perfect
 - Study C
 - Conquering the Earth
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imGagol&show_icons=true&theme=radical)
